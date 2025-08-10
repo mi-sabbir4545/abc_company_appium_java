@@ -2,7 +2,7 @@
 
 ## Technology and Tool Used
 - java
-- Android Studio
+- Android Studio Emulator
 - Appium
 - Appium Inspector
 
